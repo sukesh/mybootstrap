@@ -1,0 +1,8 @@
+D:\Practice\mybootstrap\bin\mybootstrap.dll
+D:\Practice\mybootstrap\bin\mybootstrap.pdb
+D:\Practice\mybootstrap\bin\mybootstrap.xml
+D:\Practice\mybootstrap\obj\Debug\mybootstrap.Resources.resources
+D:\Practice\mybootstrap\obj\Debug\mybootstrap.vbproj.GenerateResource.Cache
+D:\Practice\mybootstrap\obj\Debug\mybootstrap.dll
+D:\Practice\mybootstrap\obj\Debug\mybootstrap.xml
+D:\Practice\mybootstrap\obj\Debug\mybootstrap.pdb
